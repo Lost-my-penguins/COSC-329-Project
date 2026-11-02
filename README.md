@@ -1,3 +1,5 @@
+NOT COMPLETED (WORK IN PROGRESS)
+
 # Bayesian Study Planner 
 
 **COSC 329 – Term Project**
